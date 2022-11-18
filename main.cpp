@@ -1,9 +1,9 @@
 #include <iostream>
 using namespace std;
+int main() {
 float a,b;
 int opzione;
-int main() {
-   cin>>a>>b>>opzione;
+cin>>a>>b>>opzione;
    switch(opzione){
       case 0:
          cout<<a*b/2<<endl;
