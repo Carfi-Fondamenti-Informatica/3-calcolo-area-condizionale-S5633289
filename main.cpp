@@ -6,7 +6,7 @@ int main() {
    cin>>a>>b>>opzione;
    switch(opzione){
       case 0:
-         cout<<a*b\2<<endl;
+         cout<<a*b/2<<endl;
          break;
       case 1:
          cout<<a*a<<endl;
