@@ -15,7 +15,7 @@ cin>>a>>b>>opzione;
          cout<<a*b<<endl;
          break;
       default:
-         cout<<“opzione non valida”<<endl;
+         cout<<"opzione non valida"<<endl;
    }
    return 0;
 }
