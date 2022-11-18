@@ -10,7 +10,7 @@ int main() {
       case 1:
          cout<<a*a<<endl;
          break;
-      case 1:
+      case 2:
          cout<<a*b<<endl;
          break;
       default:
